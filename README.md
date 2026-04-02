@@ -31,7 +31,6 @@ The results are displayed in the console for each micro-batch.
 ### Output Screenshot
 
 <img width="975" height="687" alt="image" src="https://github.com/user-attachments/assets/0ae6ed55-148e-4469-a87a-4e0c67489f84" />
-<img width="975" height="687" alt="image" src="https://github.com/user-attachments/assets/0ae6ed55-148e-4469-a87a-4e0c67489f84" />
 
 ---
 
@@ -50,7 +49,6 @@ window_start, window_end, avg_fare, and predicted_next_avg_fare.
 
 ### Output Screenshot
 
-<img width="981" height="239" alt="image" src="https://github.com/user-attachments/assets/2d38e3bd-5e51-4aa8-9e71-c8d10ba02830" />
 <img width="981" height="239" alt="image" src="https://github.com/user-attachments/assets/2d38e3bd-5e51-4aa8-9e71-c8d10ba02830" />
 
 ---
